@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Sample Excalibur Tiled Plugin with Vite",
   "scripts": {
-    "start": "vite",
+    "start": "vite -d",
     "build": "vite build",
     "preview": "vite preview"
   },
