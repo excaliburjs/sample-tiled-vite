@@ -1,0 +1,32 @@
+﻿Dirt Cave Grass
+Dirt Cave Grass Edge
+Blank
+Blank
+Dirt Cave Grass (No Ground)
+Blank
+Blank
+Blank
+Dirt Cave Ground
+Dirt Cave Ground Edge
+Red Brick Floor
+Blank
+Dirt Cave Ground Edge (No Ground)
+Red Brick Floor Edge
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank

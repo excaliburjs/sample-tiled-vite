@@ -1,0 +1,256 @@
+﻿Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Rope|ロープ
+Dried Vines
+Dirt Cave Wall (Eyes)
+Dirt Cave Wall (Copper Ore)
+Dirt Cave Wall (Coal Ore)
+Blank
+Blank
+Blank
+Rope|ロープ
+Dried Vines
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Rope|ロープ
+Blank
+Blank
+Blank
+Blank
+Blank
+Dirt Cave Ground (Hole)
+Dirt Cave Ground (Rope)
+Red Brick Flooe (Hole)
+Red Brick Floor (Rope)
+Dirt Cave Small Rocks
+Copper Chunk
+Coal Chunk
+Blank
+Blank
+Blank
+Blank
+Blank
+Dirt Cave Boulder
+Dirt Cave Boulder (Copper Ore)
+Dirt Cave Boulder (Coal Ore)
+Blank
+Blank
+Blank
+Blank
+Blank
+Dirt Cave Tall Rock
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Dirt Cave Tall Rock
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Statue|石像
+Blank
+Brazier (Lit)
+Blank
+Blank
+Blank
+Blank
+Blank
+Statue|石像
+Brazier
+Brazier (Lit)
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Orb Pillar|オーブの柱
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Orb Pillar|オーブの柱
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Dirt Cave Entrance (Small)
+Dirt Cave Entrance (Large)
+Dirt Cave Entrance (Large)
+Dirt Cave Entrance (Large)
+Red Brick Entrance (Large)
+Red Brick Entrance (Large)
+Red Brick Entrance (Large)
+Blank
+Blank
+Dirt Cave Entrance (Large)
+Dirt Cave Entrance (Large)
+Dirt Cave Entrance (Large)
+Red Brick Entrance (Large)
+Red Brick Entrance (Large)
+Red Brick Entrance (Large)
+Blank
+Blank
+Dirt Cave Entrance (Large)
+Blank
+Dirt Cave Entrance (Large)
+Red Brick Entrance (Large)
+Blank
+Red Brick Entrance (Large)
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Copper Bar
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Shovel|スコップ
+Pickax|つるはし
+Silver Key
+Silver Lock
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Red Stone Switch (Middle)
+Blank
+Blank
+Blank
+Blank
+Blank
+Blank
+Skeleton
+Red Stone Switch (Middle)
+Blank
+Blank
+Blank
+Blank
