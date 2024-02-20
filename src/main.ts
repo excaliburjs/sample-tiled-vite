@@ -6,7 +6,8 @@ const game = new ex.Engine({
     width: 800,
     height: 600,
     canvasElementId: 'game',
-    antialiasing: false
+    pixelArt: true,
+    pixelRatio: 2
 });
 
 game.start(loader).then(() => {
