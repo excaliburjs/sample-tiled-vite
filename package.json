@@ -15,11 +15,11 @@
   },
   "license": "BSD-2-Clause",
   "dependencies": {
-    "@excaliburjs/plugin-tiled": "0.29.0",
-    "excalibur": "0.29.0"
+    "@excaliburjs/plugin-tiled": "0.30.0",
+    "excalibur": "0.30.1"
   },
   "devDependencies": {
-    "typescript": "5.3.3",
-    "vite": "5.1.3"
+    "typescript": "5.7.2",
+    "vite": "6.0.3"
   }
 }
