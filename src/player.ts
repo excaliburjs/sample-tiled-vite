@@ -109,22 +109,24 @@ export class Player extends ex.Actor {
         this.vel = ex.Vector.Zero;
 
         this.graphics.use('down-idle');
-        if (engine.input.keyboard.isHeld(ex.Input.Keys.ArrowRight)) {
+        if (engine.input.keyboard.isHeld(ex.Keys.ArrowRight)) {
             this.vel = ex.vec(Config.PlayerSpeed, 0);
             this.graphics.use('right-walk');
         }
-        if (engine.input.keyboard.isHeld(ex.Input.Keys.ArrowLeft)) {
+        if (engine.input.keyboard.isHeld(ex.Keys.ArrowLeft)) {
             this.vel = ex.vec(-Config.PlayerSpeed, 0);
             this.graphics.use('left-walk');
         }
-        if (engine.input.keyboard.isHeld(ex.Input.Keys.ArrowUp)) {
+        if (engine.input.keyboard.isHeld(ex.Keys.ArrowUp)) {
             this.vel = ex.vec(0, -Config.PlayerSpeed);
             this.graphics.use('up-walk');
         }
-        if (engine.input.keyboard.isHeld(ex.Input.Keys.ArrowDown)) {
+        if (engine.input.keyboard.isHeld(ex.Keys.ArrowDown)) {
             this.vel = ex.vec(0, Config.PlayerSpeed);
             this.graphics.use('down-walk');
         }
+
+        ex.Debug.drawRay(new ex.Ray(this.pos, this.vel), { distance: 100, color: ex.Color.Red });
 
     }
 }
